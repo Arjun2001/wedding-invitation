@@ -1,4 +1,9 @@
-# Large media files - host on Cloudinary
-wp-content/pic/
+# Large video files - host on Cloudinary
+wp-content/pic/*.mp4
+wp-content/pic/*.MP4
+wp-content/pic/*.mov
+wp-content/pic/*.MOV
+wp-content/pic/*.heic
+wp-content/pic/*.HEIC
 wp-content/audio/
 wp-content/themes/font/
